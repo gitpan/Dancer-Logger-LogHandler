@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Dancer-Logger-LogHandler
-version:            0.1
+version:            0.01
 abstract:           Dancer logger engine for Log::Handler
 author:
     - Franck Cuny <franck@lumberjaph.net>
